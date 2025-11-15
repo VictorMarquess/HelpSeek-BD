@@ -34,6 +34,7 @@ E utiliza as seguintes tabelas principais:
 | **Feedbacks** | Avaliação do atendimento |
 | **Anexos** *(opcional)* | Arquivos enviados junto ao chamado |
 
+
 ---
 
 ## 🔗 Relações Principais
@@ -41,3 +42,17 @@ E utiliza as seguintes tabelas principais:
 - **Usuarios (1) → (N) Chamados**  
 - **Chamados (1) → (N) Interacoes**  
 - **Chamados (1) → (1) Feedback**
+
+Equipe de Desenvolvimento
+
+Abaixo estão as pessoas que contribuíram para o desenvolvimento do HelpSeek
+
+Emerson Victor 👉 GitHub: https://github.com/VictorMarquess
+
+Gustavo Santos Barra 👉 GitHub: https://github.com/Guuzra
+
+Khauan Gabriel 👉 GitHub: https://github.com/KhauaG
+
+Victor Castro 👉 GitHub: https://github.com/victorcastro-dev
+
+Derik Ferreira 👉 GitHub: https://github.com/derik07
